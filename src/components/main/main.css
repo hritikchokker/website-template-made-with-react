@@ -1,0 +1,17 @@
+main {
+    /* background-color: red; */
+    width: 70%;
+}
+
+.main_item {
+    font-size: 3.5rem;
+    font-weight: 1000;
+    letter-spacing: 0.1ch;
+    width: 60%;
+}
+
+.main_paragraph {
+    font-size: 1.6rem;
+    width: 60%;
+    letter-spacing: 0.1ch;
+}

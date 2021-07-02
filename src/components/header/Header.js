@@ -1,12 +1,11 @@
 import './header.css';
 function Header() {
-    // eslint-disable-next-line no-script-url
     const url = '#';
     return (
         <header>
             <nav>
                 <ul className="nav__list">
-                    <li className="nav__list__item nav__logo">
+                    <li className=" nav__logo">
                         <a className="nav__list__item__tag" href={url}>
                             mmhmm
                         </a>
